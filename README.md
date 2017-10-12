@@ -1,2 +1,4 @@
-# mangotree-firebase
-This is my repo for mango tree with firebase
+# Mango tree
+
+> Create mango tree realtime with firebase and cron job. Will show in client side
+
